@@ -1,0 +1,4 @@
+﻿  Connect4.cpp
+C:\Users\p-user\source\repos\Connect4\Connect4.cpp(188,6): warning C4101: 'enemy': ローカル変数は 1 度も使われていません。
+C:\Users\p-user\source\repos\Connect4\Connect4.cpp(204,6): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+  Connect4.vcxproj -> C:\Users\p-user\source\repos\Connect4\x64\Debug\Connect4.exe
